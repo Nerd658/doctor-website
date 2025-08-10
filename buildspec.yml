@@ -4,6 +4,7 @@ phases:
   install:
     commands:
       - echo Installing dependencies...
+      - echo test pour voir si ca marchera
   pre_build:
     commands:
       - echo start prebuild and end it    
